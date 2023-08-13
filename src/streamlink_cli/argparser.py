@@ -961,7 +961,7 @@ def build_parser():
 
         Set to ``0`` to disable.
 
-        Default is 3.
+        Default is 2.
         """,
     )
     transport_hls.add_argument(
